@@ -1,7 +1,8 @@
 ### Hi there its me a Cyber Curious 👋
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/PnPyVXNSbR)
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/PnPyVXNSbR) 
+ ฅ^•ﻌ•^ฅ
+#cats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikkwo&show_icons=true&theme=tokyonight)
 
 ## Tecnologias
@@ -17,3 +18,6 @@
 <img aligm="center alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
 <img aligm="center alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
 </div>
+</div><br/>
+
+this profile is just for fun
