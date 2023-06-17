@@ -1,6 +1,6 @@
 ### Hi there its me a Cyber Curious 👋
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/PnPyVXNSbR) 
+
  ฅ^•ﻌ•^ฅ
 #cats
 
