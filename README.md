@@ -5,7 +5,7 @@
  ฅ^•ﻌ•^ฅ
 #cats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Machinh&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mach1nee&show_icons=true&theme=tokyonight)
 
 
 
