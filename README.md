@@ -8,5 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mach1nee&show_icons=true&theme=tokyonight)
 
 
+HABILIDADES:
 
-just for fun
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arch,bash,debian,bots,flask,github,godot,kali,linux,mint,nodejs,npm,pycharm,py,raspberrypi,vscode,windows)](https://skillicons.dev)
+
